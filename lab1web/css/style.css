@@ -1,0 +1,23 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:grey;
+    padding:10px 20px;
+}
+.nav-links{
+    list-style:none;
+    display:flex;
+    gap:20px
+}
+.nav-links li a{
+    color:white;
+    text-decoration:none;
+    font-size:16px;
+}
+.nav-links li a:hover{
+    color:300bfff;
+}
+.nav-links li a:hover{
+    color:blue;
+}
